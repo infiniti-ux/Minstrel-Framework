@@ -1,7 +1,8 @@
 # Minstrel Recon (Minstrel Reconnaisance)
 
-**Surface & CVE Intelligence Automation Module** untuk **Minstrel Framework** — cepat, senyap, ringan, reliabel.  
-**v2.0.0 — Dedicated TUI Workspace & Modern CVE Engine**
+**Surface & CVE Intelligence Automation Module** untuk **Minstrel Framework** 
+cepat, senyap, ringan, reliabel.  
+**v2.0.0 - Dedicated TUI Workspace & Modern CVE Engine**
 
 ```text
           ░█▄█░▀█▀░█▀█░█▀▀░▀█▀░█▀▄░█▀▀░█░░░░░█▀▄░█▀▀░█▀▀░█▀█░█▀█
@@ -15,7 +16,7 @@
 
 1. **Dedicated Full-Screen TUI Workspace (`\033[?1049h`)**
    - Saat dijalankan tanpa argumen, **Minstrel Recon** langsung masuk ke antarmuka terminal khususnya sendiri (*Alternate Screen Buffer*) dengan kursor tersembunyi, status bar engine *real-time*, dan kembali bersih ke terminal awal saat keluar.
-   - Navigasi responsif menggunakan **panah `↑`/`↓`**, **vim keys `j`/`k`**, **angka langsung `1`–`7`**, **`ENTER`**, atau **`q`** untuk kembali/keluar.
+   - Navigasi responsif menggunakan **panah `↑`/`↓`**, **vim keys `j`/`k`**, **angka langsung `1`-`7`**, **`ENTER`**, atau **`q`** untuk kembali/keluar.
    - Dilengkapi **Contextual Description Footer** di setiap menu serta **Interactive Report Inspector** untuk menelusuri hasil *Ports*, *Subdomains*, *Tech Stack*, dan *CVE Findings* langsung di dalam UI.
 
 2. **Pembaruan Teknik Recon & Audit CVE Terkini (2025/2026)**
